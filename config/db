@@ -1,0 +1,25 @@
+CREATE TABLE client (
+    id BIGINT NOT NULL UNIQUE PRIMARY KEY,
+    client_id VARCHAR(80) NOT NULL,
+    client_secret VARCHAR(80),
+    timestamp TIMESTAMP
+);
+
+create table auth_log
+                (
+                	id bigserial not null,
+                	client_id varchar,
+                	token varchar,
+                	expire int
+                )
+
+create table mail
+                (
+                	id bigserial not null,
+                	sender varchar,
+                	email_receiver varchar,
+                	subject varchar,
+                	cc varchar,
+                	text varchar,
+                	timestamp varchar
+                )

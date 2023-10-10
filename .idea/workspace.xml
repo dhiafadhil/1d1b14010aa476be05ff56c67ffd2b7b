@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82ab1ccd-a663-42cd-a610-f877e40a0d4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/bshaffer/oauth2-server-php" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-config" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-crypt" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-router" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-loader" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-math" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-content-negotiation" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-oauth2" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-api-problem" />
+      <path value="$PROJECT_DIR$/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-mvc" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-view" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-json" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-filter" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-validator" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-http" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-uri" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-modulemanager" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-servicemanager" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2WG1EdTZxu1T9Ddu09n5ihWYr5D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/modules" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/standalone" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="levartech" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.levartech" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82ab1ccd-a663-42cd-a610-f877e40a0d4e" name="Default Changelist" comment="" />
+      <created>1696343991184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696343991184</updated>
+      <workItem from="1696343992519" duration="6626000" />
+      <workItem from="1696425075007" duration="1937000" />
+      <workItem from="1696768406733" duration="4387000" />
+      <workItem from="1696821317801" duration="958000" />
+      <workItem from="1696822467816" duration="18000" />
+      <workItem from="1696822487469" duration="19000" />
+      <workItem from="1696822507769" duration="4266000" />
+      <workItem from="1696833731238" duration="6241000" />
+      <workItem from="1696897453961" duration="10333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1911" y="198" width="824" height="691" key="#CLI_Interpreters" timestamp="1696347831849">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1911" y="198" width="824" height="691" key="#CLI_Interpreters/1366.0.1920.1080/0.312.1366.768@1366.0.1920.1080" timestamp="1696347831849" />
+    <state x="2028" y="135" width="589" height="818" key="#PHP" timestamp="1696347865056">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2028" y="135" width="589" height="818" key="#PHP/1366.0.1920.1080/0.312.1366.768@1366.0.1920.1080" timestamp="1696347865056" />
+    <state x="1909" y="195" width="824" height="691" key="#Test_Frameworks" timestamp="1696347893140">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1909" y="195" width="824" height="691" key="#Test_Frameworks/1366.0.1920.1080/0.312.1366.768@1366.0.1920.1080" timestamp="1696347893140" />
+    <state x="2075" y="343" width="491" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1696914801867">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2075" y="343" width="491" height="394" key="#com.intellij.fileTypes.FileTypeChooser/1366.0.1920.1080/0.312.1366.768@1366.0.1920.1080" timestamp="1696914801867" />
+    <state x="2003" y="178" width="649" height="724" key="#levartech" timestamp="1696347867863">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2003" y="178" width="649" height="724" key="#levartech/1366.0.1920.1080/0.312.1366.768@1366.0.1920.1080" timestamp="1696347867863" />
+    <state x="2104" y="298" width="424" height="491" key="FileChooserDialogImpl" timestamp="1696823970299">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2104" y="298" width="424" height="491" key="FileChooserDialogImpl/1366.0.1920.1080/0.312.1366.768@1366.0.1920.1080" timestamp="1696823970299" />
+    <state width="1878" height="267" key="GridCell.Tab.0.bottom" timestamp="1696350714495">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="267" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.312.1366.768@1366.0.1920.1080" timestamp="1696350714495" />
+    <state width="1878" height="267" key="GridCell.Tab.0.center" timestamp="1696350714495">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="267" key="GridCell.Tab.0.center/1366.0.1920.1080/0.312.1366.768@1366.0.1920.1080" timestamp="1696350714495" />
+    <state width="1878" height="267" key="GridCell.Tab.0.left" timestamp="1696350714494">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="267" key="GridCell.Tab.0.left/1366.0.1920.1080/0.312.1366.768@1366.0.1920.1080" timestamp="1696350714494" />
+    <state width="1878" height="267" key="GridCell.Tab.0.right" timestamp="1696350714495">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="267" key="GridCell.Tab.0.right/1366.0.1920.1080/0.312.1366.768@1366.0.1920.1080" timestamp="1696350714495" />
+    <state x="2088" y="357" width="465" height="367" key="NewPhpClassDialog" timestamp="1696346787671">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2088" y="357" width="465" height="367" key="NewPhpClassDialog/1366.0.1920.1080/0.312.1366.768@1366.0.1920.1080" timestamp="1696346787671" />
+    <state x="2161" y="463" width="227" height="154" key="NewPhpFileDialog" timestamp="1696911635588">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="566" y="331" width="227" height="154" key="NewPhpFileDialog/0.27.1366.708@0.27.1366.708" timestamp="1696426163247" />
+    <state x="2161" y="463" width="319" height="154" key="NewPhpFileDialog/1366.0.1920.1080/0.312.1366.768@1366.0.1920.1080" timestamp="1696911635588" />
+  </component>
+</project>
